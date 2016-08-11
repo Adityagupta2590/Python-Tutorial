@@ -1,0 +1,21 @@
+Tittle:Tittle: Python Tutorial (for Image Processing in Raspberry Pi)
+
+
+Version:0.1
+
+e-mail: adityagupta2590@gmail.com
+
+Webside:https://sites.google.com/site/adityagupta2590/
+
+Liscense:MIT
+
+Software:Python 2.7
+
+Hardware:Raspberry Pi
+
+Report:
+
+Report Issue:
+
+
+		 
